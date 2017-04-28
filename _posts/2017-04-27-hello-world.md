@@ -10,6 +10,22 @@ $ gem install bundler
 
 $ gem install jekyll
 
+$ git init
+
+$ git add .
+
+$ git remote add origin https://github.com/BowonY/bowony.github.io.git
+
+$ git branch -m master gh-pages
+
+$ git checkout gh-pages
+
+$ git commit -m "initial jekyll"
+
+$ git push origin gh-pages # this was because master branch had other codes
+
+$
+
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}
