@@ -13,3 +13,10 @@ You can find the source code for the Jekyll new theme at:
 You can find the source code for Jekyll at
 {% include icon-github.html username="jekyll" %} /
 [jekyll](https://github.com/jekyll/jekyll)
+
+
+## Who am I?
+I'm a master's student at Purdue, interested in Natural Language Processing and programming stuff.
+
+## This blog?
+This blog is a casual record of daily lessons and a brief intro of my previous works :) 
