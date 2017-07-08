@@ -17,12 +17,12 @@
 #############################################
 
 title: Bowon's Simple Blog
-email: bwyang0902@gail.com
+email: bwyang0902@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-baseurl: "/blog"
+baseurl: "/"
 url: "http://bowony.github.io"
 github_username:  BowonY
 
